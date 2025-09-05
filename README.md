@@ -10,9 +10,12 @@ This is a step-by-step learning journey where I practice and document everything
 - ✅ Indexing, slicing, and accessing elements  
 - ✅ Mathematical operations and broadcasting  
 - ✅ Reshaping, flattening, stacking, and splitting arrays  
-- ✅ Random number generation with NumPy  
-- 🔜 Advanced operations: linear algebra, statistics, performance tricks  
-
+- ✅ Random number generation with NumPy    
+- ✅ Mathematical Operation
+- ✅ Statistical Functions
+- ✅ Linear Algebra
+- ✅ Numpy with Real Data
+- ✅ Load Data from CSV
 ---
 
 ## 📂 Repository Structure
@@ -21,8 +24,13 @@ This is a step-by-step learning journey where I practice and document everything
 - `Day3_Operations.ipynb` → Arithmetic, broadcasting  
 - `Day4_Reshape_Stack_Split.ipynb` → Reshape, flatten, stack, split  
 - `Day5_Random.ipynb` → Random module  
+  
+- `Day6_Mathematical.ipynb` → Mathematical Operation
+- `Day7_Statistical.ipynb` → Statistical operation
+- `Day8_Linearalgebra.ipynb` → Linear Algebra
+- `Day9_Realdata.ipynb` → Numpy with Real Data
+- `Day10_Loaddata.ipynb` → Load data from CSV 
 
-*(More chapters coming soon 🚀)*  
 
 ---
 
